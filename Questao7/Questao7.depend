@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710802414 source:/home/roger/Documentos/Linguagem_C/Atividades2Semestre/Questao7/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710878989 source:/home/roger/Documentos/Linguagem_C/Atividades2Semestre/Questao11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
